@@ -1,0 +1,5 @@
+I completed modules 1 and 2 of the Python for Everybody course.
+Dr. Charles Severance gave an overview of the course and emphasized that we will feel frustrated at times, but we will learn and eventually get it with time and practice.
+I installed Python and Visual Studio Code, and wrote my first program – “Hello, world!”
+
+In linear algebra, I studied vectors – addition and scalar multiplication.
